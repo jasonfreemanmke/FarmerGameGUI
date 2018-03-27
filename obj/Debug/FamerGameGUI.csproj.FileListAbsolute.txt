@@ -1,0 +1,18 @@
+c:\users\jason freeman\documents\visual studio 2015\Projects\FamerGameGUI\FamerGameGUI\bin\Debug\FamerGameGUI.exe.config
+C:\Users\Jason Freeman\Documents\Visual Studio 2015\Projects\FamerGameGUI\FamerGameGUI\bin\Debug\FamerGameGUI.exe
+C:\Users\Jason Freeman\Documents\Visual Studio 2015\Projects\FamerGameGUI\FamerGameGUI\bin\Debug\FamerGameGUI.pdb
+C:\Users\Jason Freeman\Documents\Visual Studio 2015\Projects\FamerGameGUI\FamerGameGUI\obj\Debug\FamerGameGUI.csprojResolveAssemblyReference.cache
+C:\Users\Jason Freeman\Documents\Visual Studio 2015\Projects\FamerGameGUI\FamerGameGUI\obj\Debug\FamerGameGUI.Properties.Resources.resources
+C:\Users\Jason Freeman\Documents\Visual Studio 2015\Projects\FamerGameGUI\FamerGameGUI\obj\Debug\FamerGameGUI.csproj.GenerateResource.Cache
+C:\Users\Jason Freeman\Documents\Visual Studio 2015\Projects\FamerGameGUI\FamerGameGUI\obj\Debug\FamerGameGUI.exe
+C:\Users\Jason Freeman\Documents\Visual Studio 2015\Projects\FamerGameGUI\FamerGameGUI\obj\Debug\FamerGameGUI.pdb
+c:\users\jason freeman\documents\visual studio 2015\Projects\FamerGameGUI\FamerGameGUI\obj\Debug\FamerGameGUI.Form1.resources
+C:\Users\Jason Freeman\Desktop\FamerGameGUI\FamerGameGUI\bin\Debug\FamerGameGUI.exe.config
+C:\Users\Jason Freeman\Desktop\FamerGameGUI\FamerGameGUI\obj\Debug\FamerGameGUI.exe
+C:\Users\Jason Freeman\Desktop\FamerGameGUI\FamerGameGUI\obj\Debug\FamerGameGUI.pdb
+C:\Users\Jason Freeman\Desktop\FamerGameGUI\FamerGameGUI\bin\Debug\FamerGameGUI.exe
+C:\Users\Jason Freeman\Desktop\FamerGameGUI\FamerGameGUI\bin\Debug\FamerGameGUI.pdb
+C:\Users\Jason Freeman\Desktop\FamerGameGUI\FamerGameGUI\obj\Debug\FamerGameGUI.csprojResolveAssemblyReference.cache
+C:\Users\Jason Freeman\Desktop\FamerGameGUI\FamerGameGUI\obj\Debug\FamerGameGUI.Form1.resources
+C:\Users\Jason Freeman\Desktop\FamerGameGUI\FamerGameGUI\obj\Debug\FamerGameGUI.Properties.Resources.resources
+C:\Users\Jason Freeman\Desktop\FamerGameGUI\FamerGameGUI\obj\Debug\FamerGameGUI.csproj.GenerateResource.Cache
